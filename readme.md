@@ -1,4 +1,4 @@
 # This is a check list
-* [] task1
-* [] task2
-* [] task3
+* [ ] task1
+* [ x ] task2
+* [ x ] task3
